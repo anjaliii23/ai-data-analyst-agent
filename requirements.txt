@@ -1,6 +1,7 @@
 streamlit==1.31.1
-pandas
-langchain
-langchain-experimental
-langchain-openai
-openai
+pandas==2.2.2
+langchain==0.1.20
+langchain-experimental==0.0.55
+langchain-openai==0.1.7
+openai==1.30.1
+
